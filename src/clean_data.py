@@ -4,7 +4,6 @@ import numpy as np
 import os
 
 def clean_and_build_pipeline():
-    print("⏳ Day 1: Starting Data Engineering Pipeline...")
     
     # 1. Create data directory if it doesn't exist
     if not os.path.exists("data"):
