@@ -48,7 +48,7 @@ def clean_and_build_pipeline():
 
     # 7. Save Clean Export
     master_df.to_csv("data/cleaned_master_data.csv", index=False)
-    print("✅ Day 1 Complete! Clean master matrix saved to 'data/cleaned_master_data.csv'")
+    print("Complete! Clean master matrix saved to 'data/cleaned_master_data.csv'")
 
 if __name__ == "__main__":
     clean_and_build_pipeline()
