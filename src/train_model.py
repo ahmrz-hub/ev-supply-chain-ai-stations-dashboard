@@ -7,7 +7,7 @@ from sklearn.metrics import mean_absolute_error, r2_score
 import joblib
 
 def train_and_export_knn():
-    print("🧠 Day 2: Loading dataset and isolating features for KNN...")
+    print("Loading dataset and isolating features for KNN...")
     
     df = pd.read_csv("data/cleaned_master_data.csv")
     
@@ -47,7 +47,7 @@ def train_and_export_knn():
     # The dashboard will need the scaler to process the user inputs exactly like the training data
     joblib.dump(model, "src/infrastructure_model.joblib")
     joblib.dump(scaler, "src/scaler.pkl")
-    print("💾 Day 2 Complete! KNN Model and Scaler files serialized successfully.")
+    print("Complete! KNN Model and Scaler files serialized successfully.")
 
 if __name__ == "__main__":
     train_and_export_knn()
