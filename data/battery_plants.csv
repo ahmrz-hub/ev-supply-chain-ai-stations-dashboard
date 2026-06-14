@@ -1,0 +1,33 @@
+factory_name,company,country_iso3,city,capacity_gwh,capacity_mwh,technology,online_year,source
+Gigafactory Nevada,Tesla/Panasonic,USA,Sparks NV,35.0,35000.0,NMC/NCA,2016,Tesla PR
+Gigafactory Texas,Tesla,USA,Austin TX,4.0,4000.0,LFP/4680,2022,Tesla PR
+Gigafactory Berlin,Tesla,DEU,Grünheide,50.0,50000.0,NMC/LFP,2022,Tesla PR
+Gigafactory Shanghai,Tesla/CATL,CHN,Shanghai,200.0,200000.0,LFP/NMC,2019,Tesla PR
+CATL Ningde,CATL,CHN,Ningde,130.0,130000.0,LFP/NMC,2011,CATL AR
+CATL Yibin,CATL,CHN,Yibin,50.0,50000.0,LFP,2019,CATL AR
+CATL Hungary,CATL,HUN,Debrecen,100.0,100000.0,LFP/NMC,2025,Bloomberg
+LG Energy Solution Wroclaw,LG Energy,POL,Wroclaw,75.0,75000.0,NMC,2018,LGES PR
+LG Energy Solution Arizona,LG Energy,USA,Queen Creek AZ,27.0,27000.0,NMC,2023,LGES PR
+Samsung SDI Hungary,Samsung SDI,HUN,Göd,30.0,30000.0,NMC,2018,SSDI PR
+SK On Georgia,SK On,USA,Commerce GA,21.5,21500.0,NMC,2022,SK PR
+Northvolt Ett,Northvolt,SWE,Skellefteå,60.0,60000.0,NMC,2021,Northvolt PR
+ACC Douvrin,ACC (Stellantis),FRA,Billy-Berclau,40.0,40000.0,NMC,2023,ACC PR
+BYD Shenzhen,BYD,CHN,Shenzhen,200.0,200000.0,LFP/NMC,2008,BYD AR
+BYD Zhengzhou,BYD,CHN,Zhengzhou,60.0,60000.0,LFP,2020,BYD AR
+AESC Sunderland,AESC/Envision,GBR,Sunderland,2.0,2000.0,NMC,2013,AESC PR
+AESC Tennessee,AESC/Envision,USA,Smyrna TN,13.0,13000.0,NMC,2013,AESC PR
+Panasonic Wakayama,Panasonic,JPN,Wakayama,28.0,28000.0,NCA/NMC,2010,Panasonic PR
+Panasonic Kansas,Panasonic,USA,De Soto KS,30.0,30000.0,4680,2025,Panasonic PR
+SVOLT Germany,SVOLT (GWM),DEU,Überherrn,24.0,24000.0,NMC/LFP,2023,SVOLT PR
+Freyr Giga Arctic,Freyr,NOR,Mo i Rana,29.0,29000.0,LFP,2024,Freyr PR
+CALB Changzhou,CALB,CHN,Changzhou,50.0,50000.0,LFP,2021,CALB PR
+Gotion Hefei,Gotion,CHN,Hefei,30.0,30000.0,LFP,2015,Gotion PR
+Gotion Illinois,Gotion,USA,Manteno IL,40.0,40000.0,LFP,2025,Gotion PR
+Ultium Cells Ohio,GM/LG Energy,USA,Lordstown OH,35.0,35000.0,NMCA,2022,GM PR
+Ultium Cells Tennessee,GM/LG Energy,USA,Spring Hill TN,35.0,35000.0,NMCA,2023,GM PR
+Ford BlueOval Michigan,Ford/SK On,USA,Marshall MI,35.0,35000.0,NMC,2026,Ford PR
+Verkor Dunkirk,Verkor,FRA,Dunkirk,50.0,50000.0,NMC,2025,Verkor PR
+PowerCo Salzgitter,VW/PowerCo,DEU,Salzgitter,40.0,40000.0,Unified,2025,VW PR
+Britishvolt Blyth,Recharge Ind.,GBR,Blyth,30.0,30000.0,NMC,2026,Bloomberg
+Morrow Cells,Morrow,NOR,Arendal,2.0,2000.0,NMC,2023,Morrow PR
+InoBat Slovakia,InoBat,SVK,Voderady,0.1,100.0,Custom,2022,InoBat PR
