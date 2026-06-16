@@ -54,7 +54,7 @@ elif page == "🔮 AI Demand Predictor":
         col1, col2 = st.columns(2)
         
         with col1:
-            year = st.slider("Target Implementation Year", 2020, 2035, 2026)
+            year = st.slider("Target Implementation Year", 2020, 2030, 2025)
             ev_stock = st.number_input("Projected EV Fleet (Vehicles)", min_value=100, value=25000)
             ev_sales = st.number_input("Projected Annual EV Purchases", min_value=10, value=5000)
             
